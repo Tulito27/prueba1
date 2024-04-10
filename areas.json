@@ -1,0 +1,22 @@
+{
+    "matematicas": {
+        "nombre": "Matem\u00e1ticas",
+        "descripcion": "Ciencia que estudia las propiedades y las relaciones de los n\u00fameros, las figuras geom\u00e9tricas y los s\u00edmbolos.",
+        "nivel": "Avanzado"
+    },
+    "fisica": {
+        "nombre": "F\u00edsica",
+        "descripcion": "Ciencia que estudia las propiedades de la materia y de la energ\u00eda, as\u00ed como sus interacciones.",
+        "nivel": "Intermedio"
+    },
+    "programacion": {
+        "nombre": "Programaci\u00f3n",
+        "descripcion": "Proceso de dise\u00f1ar, codificar, depurar y mantener el c\u00f3digo fuente de programas de computadora.",
+        "nivel": "Principiante"
+    },
+    "electronica": {
+        "nombre": "Electr\u00f3nica",
+        "descripcion": "Rama de la f\u00edsica y la ingenier\u00eda que estudia y emplea sistemas cuyo funcionamiento depende del flujo de electrones.",
+        "nivel": "Intermedio"
+    }
+}
